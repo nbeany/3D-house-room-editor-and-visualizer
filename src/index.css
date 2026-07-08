@@ -11,7 +11,7 @@
 @layer base {
   html,
   body,
-  #root {
+  #__next {
     height: 100%;
     overscroll-behavior: none;
   }
